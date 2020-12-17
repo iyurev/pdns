@@ -1,0 +1,2 @@
+# pdns
+PowerDNS container image
